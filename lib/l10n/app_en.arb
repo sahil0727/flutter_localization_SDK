@@ -1,0 +1,14 @@
+{
+  "appbarTitle": "MyApp",
+  "home": "Home",
+  "carpet": "Carpet",
+  "decks_porches": "Decks & Porcges",
+  "electrical_computers": "Electrical & Computers",
+  "kitchens": "Kitchens",
+  "tile_stone": "Tile & Stone",
+  "plumbing": "Plumbing",
+  "carpentry":"Carpentry",
+  "select_language": "Select Language",
+  "services": "Services"
+}
+
